@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+
+.env
+.env.*
+
+__pycache__/
+*.pyc
+
+.idea/
+
+*.log
